@@ -1,9 +1,6 @@
 # PD-UBI: Passion-Driven Universal Basic Income
 ### & Personal Data Sovereignty
 
-![Cover Image](assets/solarpunk_cover.jpg)
-*(Looking forward to a future of digital sovereignty)*
-
 ---
 
 ## 📄 The Proposal
