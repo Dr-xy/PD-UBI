@@ -21,9 +21,12 @@ This is a proposal for a new economic paradigm: **Money should not be minted by 
 
 ## 💡 A Note from the Author
 
-> **I proposed this project, but I have absolutely no engineering background. If anyone build this, please tell me. I hope to be the earliest participant in this system.**
-> **And welcome to discuss**
+I believe this will be a long journey. I chose GitHub because I envision this as a truly decentralized initiative. If this project resonates with you or you find value in it, you are welcome to follow and join us.
+**Any contribution you make—whether creating content related to PD-UBI, sharing it, discussing it with others, or simply reflecting on these ideas—makes this project better and is part of this project.**
 
+> **I proposed this project, but I have absolutely no code experience. If anyone build this, please tell me. I hope to be the earliest participant in this system.**
+> **And welcome to discuss**
+You are free to Fork this repository, propose changes via Pull Requests, or discuss ideas in the [Issues](https://github.com/Dr-xy/PD-UBI/issues) section.
 
 ---
 
