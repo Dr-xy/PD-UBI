@@ -13,7 +13,7 @@ This is a **dual-token system** featuring two types of tokens: Token A and Token
 
 Every week, the system distributes some Token A to everyone. These Token A cannot be transferred between wallets. The only thing you can do with them is to **"like"** others.
 
-Each "like" consumes **1 Token A** and simultaneously generates **1.5 Token B** out of thin air:
+Each "like" consumes **1 Token A** and simultaneously generates **1.5 Token B**:
 * **1.0 Token** returns to you (this is your UBI/basic wage);
 * **0.5 Token** is rewarded to the person being liked (this is a vote to support what you love).
 
